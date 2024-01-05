@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4Jm3jQeHTeB7rq8VmfQ1vLxHjh5MLi+e/O2XQ+q5p7SG4AMoD9RXv97WkNK8A6Byd1wD+53r2TL9/00d6tX0ew==",
+  "dgSpecHash": "i5Q63tbpfMwswBvBs0A5TKyRmV9z2vh35yfzox5xV2G2Q0YIX4jwYymPRrPLzG+MW9NU7WAoXjeFpJkY8rmpPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ybori\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\ybori\\source\\repos\\WebApplication1\\Test\\Test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ybori\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\ybori\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\ybori\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ybori\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\ybori\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\ybori\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\ybori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
